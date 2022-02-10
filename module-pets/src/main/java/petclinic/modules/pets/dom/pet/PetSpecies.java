@@ -5,4 +5,6 @@ public enum PetSpecies {
     Cat,
     Hamster,
     Budgerigar,
+    Fish,
+    Snake,
 }
